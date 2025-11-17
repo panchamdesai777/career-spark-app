@@ -1,0 +1,184 @@
+{
+  "user_id": "uuid002",
+  "timestamp": "2025-11-15T05:22:57.800315",
+  "user_input_summary": "",
+  "predicted_category": "",
+  "questions": [
+    {
+      "id": "Q1",
+      "question": "When things go wrong unexpectedly, how quickly do you regain your balance? (1–5)",
+      "response": 3
+    },
+    {
+      "id": "Q10",
+      "question": "When making decisions, how much do you rely on intuition? (1–5)",
+      "response": 5
+    },
+    {
+      "id": "Q11",
+      "question": "How willing are you to take risks? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q12",
+      "question": "How ambitious do you consider yourself? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q13",
+      "question": "How consistent are you with habits and commitments? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q14",
+      "question": "What motivates you more?",
+      "response": ""
+    },
+    {
+      "id": "Q15",
+      "question": "How comfortable are you leading a group when needed? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q16",
+      "question": "When expressing an idea, what’s your natural style?",
+      "response": ""
+    },
+    {
+      "id": "Q17",
+      "question": "Do you work better alone or with others?",
+      "response": ""
+    },
+    {
+      "id": "Q18",
+      "question": "Do you prefer structured schedules or flexible ones? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q19",
+      "question": "How good are you at staying focused for long sessions? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q2",
+      "question": "You see a friend upset in public. What’s your first instinct?",
+      "response": ""
+    },
+    {
+      "id": "Q20",
+      "question": "What kind of environment suits you?",
+      "response": ""
+    },
+    {
+      "id": "Q21",
+      "question": "How openly do you express your emotions? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q22",
+      "question": "How comfortable are you standing up for yourself? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q23",
+      "question": "How do you react when someone strongly disagrees with you?",
+      "response": ""
+    },
+    {
+      "id": "Q24",
+      "question": "Which feels most natural?",
+      "response": ""
+    },
+    {
+      "id": "Q25",
+      "question": "What kind of work do you enjoy more?",
+      "response": ""
+    },
+    {
+      "id": "Q3",
+      "question": "How often do you feel overwhelmed during busy weeks? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q4",
+      "question": "After a long day, what recharges you more?",
+      "response": ""
+    },
+    {
+      "id": "Q5",
+      "question": "How curious are you about topics outside your field? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q6",
+      "question": "How organized do you naturally keep your tasks and environment? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q7",
+      "question": "In group projects, how do you usually behave?",
+      "response": ""
+    },
+    {
+      "id": "Q8",
+      "question": "How often do small problems bother you more than they should? (1–5)",
+      "response": ""
+    },
+    {
+      "id": "Q9",
+      "question": "Which describes you better?",
+      "response": ""
+    }
+  ],
+  "personality_analysis": {
+    "trait_scores": {
+      "emotional_resilience": 0,
+      "creativity": 1
+    },
+    "responses": [
+      {
+        "question_id": "Q1",
+        "question": "When things go wrong unexpectedly, how quickly do you regain your balance? (1–5)",
+        "user_response": 3,
+        "type": "likert",
+        "traits_affected": {
+          "emotional_resilience": 0
+        }
+      },
+      {
+        "question_id": "Q10",
+        "question": "When making decisions, how much do you rely on intuition? (1–5)",
+        "user_response": 5,
+        "type": "likert",
+        "traits_affected": {
+          "creativity": 1
+        }
+      }
+    ],
+    "scoring_details": [
+      {
+        "question_id": "Q1",
+        "question": "When things go wrong unexpectedly, how quickly do you regain your balance? (1–5)",
+        "user_response": 3,
+        "traits_affected": {
+          "emotional_resilience": 0
+        },
+        "cumulative_scores": {
+          "emotional_resilience": 0
+        }
+      },
+      {
+        "question_id": "Q10",
+        "question": "When making decisions, how much do you rely on intuition? (1–5)",
+        "user_response": 5,
+        "traits_affected": {
+          "creativity": 1
+        },
+        "cumulative_scores": {
+          "emotional_resilience": 0,
+          "creativity": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "Business & Management": [
+    {
+      "id": "bm001",
+      "name": "Sarah Chen",
+      "role": "Senior Project Manager",
+      "company": "Entertainment Studios Inc.",
+      "experience_years": 8,
+      "location": "Los Angeles, CA",
+      "specialization": "Production Management, Team Leadership",
+      "bio": "Experienced project manager specializing in entertainment production. Passionate about mentoring young professionals entering the industry.",
+      "availability": "Available for virtual coffee chats",
+      "linkedin": "linkedin.com/in/sarah-chen-pm",
+      "email": "sarah.chen@example.com",
+      "match_score": 95,
+      "match_reasons": [
+        "Strong background in production management",
+        "Experience with team leadership",
+        "Located in major entertainment hub"
+      ]
+    },
+    {
+      "id": "bm002",
+      "name": "Marcus Johnson",
+      "role": "Talent Manager",
+      "company": "Creative Talent Agency",
+      "experience_years": 6,
+      "location": "New York, NY",
+      "specialization": "Talent Development, Career Strategy",
+      "bio": "Talent manager with a focus on helping emerging creatives build their careers. Great at networking and industry connections.",
+      "availability": "Available for mentorship sessions",
+      "linkedin": "linkedin.com/in/marcus-johnson-talent",
+      "email": "marcus.j@example.com",
+      "match_score": 92,
+      "match_reasons": [
+        "Expert in talent development",
+        "Strong networking skills",
+        "Career strategy expertise"
+      ]
+    },
+    {
+      "id": "bm003",
+      "name": "Emily Rodriguez",
+      "role": "Marketing Manager",
+      "company": "Digital Media Group",
+      "experience_years": 5,
+      "location": "Atlanta, GA",
+      "specialization": "Content Marketing, Brand Strategy",
+      "bio": "Marketing professional with a passion for content creation and brand building. Loves helping others navigate the marketing landscape.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/emily-rodriguez-marketing",
+      "email": "emily.r@example.com",
+      "match_score": 88,
+      "match_reasons": [
+        "Content marketing expertise",
+        "Brand strategy knowledge",
+        "Growing market location"
+      ]
+    },
+    {
+      "id": "bm004",
+      "name": "David Kim",
+      "role": "Operations Manager",
+      "company": "Streaming Platform Co.",
+      "experience_years": 7,
+      "location": "Los Angeles, CA",
+      "specialization": "Operations, Process Optimization",
+      "bio": "Operations expert in the streaming industry. Enjoys mentoring those interested in the business side of entertainment.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/david-kim-ops",
+      "email": "david.kim@example.com",
+      "match_score": 90,
+      "match_reasons": [
+        "Operations expertise",
+        "Streaming industry experience",
+        "Process optimization skills"
+      ]
+    },
+    {
+      "id": "bm005",
+      "name": "Jessica Taylor",
+      "role": "Event Coordinator",
+      "company": "Live Events Production",
+      "experience_years": 4,
+      "location": "Nashville, TN",
+      "specialization": "Event Planning, Live Production",
+      "bio": "Event coordinator specializing in live entertainment events. Great at helping others break into event management.",
+      "availability": "Available for mentorship",
+      "linkedin": "linkedin.com/in/jessica-taylor-events",
+      "email": "jessica.t@example.com",
+      "match_score": 85,
+      "match_reasons": [
+        "Event planning expertise",
+        "Live production experience",
+        "Entry-level friendly"
+      ]
+    }
+  ],
+  "Sport": [
+    {
+      "id": "sp001",
+      "name": "Alex Thompson",
+      "role": "Sports Performance Analyst",
+      "company": "Professional Sports Analytics",
+      "experience_years": 6,
+      "location": "Boston, MA",
+      "specialization": "Performance Analysis, Data Analytics",
+      "bio": "Sports analyst with expertise in performance metrics and data analysis. Passionate about helping others enter sports analytics.",
+      "availability": "Available for virtual sessions",
+      "linkedin": "linkedin.com/in/alex-thompson-sports",
+      "email": "alex.t@example.com",
+      "match_score": 93,
+      "match_reasons": [
+        "Performance analysis expertise",
+        "Data analytics skills",
+        "Professional sports experience"
+      ]
+    },
+    {
+      "id": "sp002",
+      "name": "Jordan Martinez",
+      "role": "Athletic Trainer",
+      "company": "Elite Training Center",
+      "experience_years": 5,
+      "location": "Miami, FL",
+      "specialization": "Athletic Training, Injury Prevention",
+      "bio": "Certified athletic trainer working with professional athletes. Enjoys mentoring aspiring trainers and coaches.",
+      "availability": "Available for mentorship",
+      "linkedin": "linkedin.com/in/jordan-martinez-trainer",
+      "email": "jordan.m@example.com",
+      "match_score": 91,
+      "match_reasons": [
+        "Professional athletic training",
+        "Injury prevention expertise",
+        "Direct athlete experience"
+      ]
+    },
+    {
+      "id": "sp003",
+      "name": "Taylor Williams",
+      "role": "Sports Marketing Specialist",
+      "company": "Sports Marketing Agency",
+      "experience_years": 4,
+      "location": "Chicago, IL",
+      "specialization": "Sports Marketing, Brand Partnerships",
+      "bio": "Sports marketing professional specializing in brand partnerships and athlete endorsements. Great networker and mentor.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/taylor-williams-sports",
+      "email": "taylor.w@example.com",
+      "match_score": 89,
+      "match_reasons": [
+        "Sports marketing expertise",
+        "Brand partnership experience",
+        "Strong networking skills"
+      ]
+    },
+    {
+      "id": "sp004",
+      "name": "Casey Brown",
+      "role": "Sports Coach",
+      "company": "Youth Sports Academy",
+      "experience_years": 7,
+      "location": "Denver, CO",
+      "specialization": "Coaching, Youth Development",
+      "bio": "Experienced sports coach with a focus on youth development. Passionate about developing the next generation of coaches.",
+      "availability": "Available for mentorship sessions",
+      "linkedin": "linkedin.com/in/casey-brown-coach",
+      "email": "casey.b@example.com",
+      "match_score": 87,
+      "match_reasons": [
+        "Coaching expertise",
+        "Youth development focus",
+        "Teaching experience"
+      ]
+    },
+    {
+      "id": "sp005",
+      "name": "Morgan Davis",
+      "role": "Sports Journalist",
+      "company": "Sports Media Network",
+      "experience_years": 5,
+      "location": "New York, NY",
+      "specialization": "Sports Journalism, Media Production",
+      "bio": "Sports journalist covering major leagues. Enjoys helping aspiring journalists break into sports media.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/morgan-davis-journalist",
+      "email": "morgan.d@example.com",
+      "match_score": 86,
+      "match_reasons": [
+        "Sports journalism expertise",
+        "Media production skills",
+        "Industry connections"
+      ]
+    }
+  ],
+  "Music": [
+    {
+      "id": "mu001",
+      "name": "Riley Anderson",
+      "role": "Music Producer",
+      "company": "Independent Studio",
+      "experience_years": 8,
+      "location": "Nashville, TN",
+      "specialization": "Music Production, Audio Engineering",
+      "bio": "Award-winning music producer with experience across multiple genres. Passionate about mentoring emerging producers.",
+      "availability": "Available for studio sessions",
+      "linkedin": "linkedin.com/in/riley-anderson-producer",
+      "email": "riley.a@example.com",
+      "match_score": 96,
+      "match_reasons": [
+        "Award-winning producer",
+        "Multi-genre experience",
+        "Studio expertise"
+      ]
+    },
+    {
+      "id": "mu002",
+      "name": "Quinn Parker",
+      "role": "Sound Engineer",
+      "company": "Recording Studio Collective",
+      "experience_years": 6,
+      "location": "Los Angeles, CA",
+      "specialization": "Recording, Mixing, Mastering",
+      "bio": "Professional sound engineer with credits on major label releases. Enjoys teaching technical skills to newcomers.",
+      "availability": "Available for virtual sessions",
+      "linkedin": "linkedin.com/in/quinn-parker-engineer",
+      "email": "quinn.p@example.com",
+      "match_score": 94,
+      "match_reasons": [
+        "Major label experience",
+        "Technical expertise",
+        "Teaching experience"
+      ]
+    },
+    {
+      "id": "mu003",
+      "name": "Avery Lee",
+      "role": "Music Composer",
+      "company": "Film Scoring Studio",
+      "experience_years": 7,
+      "location": "Los Angeles, CA",
+      "specialization": "Film Scoring, Orchestration",
+      "bio": "Film composer with credits on multiple feature films. Great at helping others understand the business of composing.",
+      "availability": "Available for mentorship",
+      "linkedin": "linkedin.com/in/avery-lee-composer",
+      "email": "avery.l@example.com",
+      "match_score": 92,
+      "match_reasons": [
+        "Film scoring experience",
+        "Orchestration expertise",
+        "Industry connections"
+      ]
+    },
+    {
+      "id": "mu004",
+      "name": "Sage Morgan",
+      "role": "Live Sound Technician",
+      "company": "Concert Production Services",
+      "experience_years": 5,
+      "location": "Austin, TX",
+      "specialization": "Live Sound, Tour Management",
+      "bio": "Live sound engineer working with touring artists. Experienced in both technical and practical aspects of live music.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/sage-morgan-live",
+      "email": "sage.m@example.com",
+      "match_score": 90,
+      "match_reasons": [
+        "Live sound expertise",
+        "Tour experience",
+        "Practical knowledge"
+      ]
+    },
+    {
+      "id": "mu005",
+      "name": "River Chen",
+      "role": "Music Supervisor",
+      "company": "Music Licensing Agency",
+      "experience_years": 4,
+      "location": "New York, NY",
+      "specialization": "Music Licensing, Sync Placement",
+      "bio": "Music supervisor placing music in TV and film. Great at explaining the business side of music to creatives.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/river-chen-supervisor",
+      "email": "river.c@example.com",
+      "match_score": 88,
+      "match_reasons": [
+        "Music licensing expertise",
+        "TV/film placement experience",
+        "Business knowledge"
+      ]
+    }
+  ],
+  "Film/TV": [
+    {
+      "id": "ft001",
+      "name": "Blake Taylor",
+      "role": "Film Director",
+      "company": "Independent Productions",
+      "experience_years": 9,
+      "location": "Los Angeles, CA",
+      "specialization": "Directing, Storytelling, Visual Narrative",
+      "bio": "Independent film director with festival recognition. Passionate about mentoring emerging filmmakers and directors.",
+      "availability": "Available for mentorship sessions",
+      "linkedin": "linkedin.com/in/blake-taylor-director",
+      "email": "blake.t@example.com",
+      "match_score": 97,
+      "match_reasons": [
+        "Festival-recognized director",
+        "Storytelling expertise",
+        "Independent film experience"
+      ]
+    },
+    {
+      "id": "ft002",
+      "name": "Cameron Reed",
+      "role": "Cinematographer",
+      "company": "Cinema Collective",
+      "experience_years": 7,
+      "location": "Los Angeles, CA",
+      "specialization": "Cinematography, Camera Work, Lighting",
+      "bio": "Award-winning cinematographer with experience in both film and TV. Enjoys teaching visual storytelling techniques.",
+      "availability": "Available for virtual sessions",
+      "linkedin": "linkedin.com/in/cameron-reed-cinematographer",
+      "email": "cameron.r@example.com",
+      "match_score": 95,
+      "match_reasons": [
+        "Award-winning work",
+        "Visual storytelling expertise",
+        "Film and TV experience"
+      ]
+    },
+    {
+      "id": "ft003",
+      "name": "Jordan Kim",
+      "role": "Video Editor",
+      "company": "Post-Production Studio",
+      "experience_years": 6,
+      "location": "Atlanta, GA",
+      "specialization": "Video Editing, Post-Production, Color Grading",
+      "bio": "Professional video editor working on TV shows and streaming content. Great at teaching editing workflows and techniques.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/jordan-kim-editor",
+      "email": "jordan.k@example.com",
+      "match_score": 93,
+      "match_reasons": [
+        "TV and streaming experience",
+        "Post-production expertise",
+        "Workflow knowledge"
+      ]
+    },
+    {
+      "id": "ft004",
+      "name": "Alex Morgan",
+      "role": "TV Producer",
+      "company": "Streaming Network",
+      "experience_years": 8,
+      "location": "New York, NY",
+      "specialization": "TV Production, Content Development",
+      "bio": "TV producer with experience developing and producing original content. Enjoys mentoring those interested in production.",
+      "availability": "Available for mentorship",
+      "linkedin": "linkedin.com/in/alex-morgan-producer",
+      "email": "alex.m@example.com",
+      "match_score": 91,
+      "match_reasons": [
+        "Content development expertise",
+        "TV production experience",
+        "Industry connections"
+      ]
+    },
+    {
+      "id": "ft005",
+      "name": "Taylor Park",
+      "role": "Content Creator",
+      "company": "Digital Media Company",
+      "experience_years": 4,
+      "location": "Los Angeles, CA",
+      "specialization": "Digital Content, Social Media, Brand Partnerships",
+      "bio": "Successful content creator with millions of followers. Great at helping others understand the digital content landscape.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/taylor-park-creator",
+      "email": "taylor.p@example.com",
+      "match_score": 89,
+      "match_reasons": [
+        "Digital content expertise",
+        "Social media knowledge",
+        "Brand partnership experience"
+      ]
+    }
+  ],
+  "VFX/Animation": [
+    {
+      "id": "vx001",
+      "name": "Sam Chen",
+      "role": "VFX Artist",
+      "company": "Visual Effects Studio",
+      "experience_years": 7,
+      "location": "Vancouver, BC",
+      "specialization": "Visual Effects, Compositing, 3D Rendering",
+      "bio": "VFX artist with credits on major blockbuster films. Passionate about teaching VFX techniques and workflows.",
+      "availability": "Available for virtual sessions",
+      "linkedin": "linkedin.com/in/sam-chen-vfx",
+      "email": "sam.c@example.com",
+      "match_score": 96,
+      "match_reasons": [
+        "Blockbuster film experience",
+        "VFX expertise",
+        "Technical skills"
+      ]
+    },
+    {
+      "id": "vx002",
+      "name": "Riley Johnson",
+      "role": "3D Animator",
+      "company": "Animation Studio",
+      "experience_years": 6,
+      "location": "Los Angeles, CA",
+      "specialization": "3D Animation, Character Animation, Rigging",
+      "bio": "3D animator working on animated features and games. Enjoys mentoring aspiring animators and sharing industry insights.",
+      "availability": "Available for mentorship sessions",
+      "linkedin": "linkedin.com/in/riley-johnson-animator",
+      "email": "riley.j@example.com",
+      "match_score": 94,
+      "match_reasons": [
+        "Feature film experience",
+        "Character animation expertise",
+        "Game industry knowledge"
+      ]
+    },
+    {
+      "id": "vx003",
+      "name": "Quinn Martinez",
+      "role": "Motion Graphics Designer",
+      "company": "Design Studio",
+      "experience_years": 5,
+      "location": "New York, NY",
+      "specialization": "Motion Graphics, Title Design, Brand Animation",
+      "bio": "Motion graphics designer creating titles and graphics for TV and film. Great at teaching design principles and software skills.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/quinn-martinez-motion",
+      "email": "quinn.m@example.com",
+      "match_score": 92,
+      "match_reasons": [
+        "Title design expertise",
+        "Brand animation experience",
+        "Design principles knowledge"
+      ]
+    },
+    {
+      "id": "vx004",
+      "name": "Avery Davis",
+      "role": "Visual Effects Supervisor",
+      "company": "VFX Production Company",
+      "experience_years": 10,
+      "location": "London, UK",
+      "specialization": "VFX Supervision, Pipeline Management, Team Leadership",
+      "bio": "VFX supervisor with extensive experience managing large-scale VFX projects. Enjoys mentoring those interested in VFX leadership.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/avery-davis-vfx-supervisor",
+      "email": "avery.d@example.com",
+      "match_score": 95,
+      "match_reasons": [
+        "VFX supervision expertise",
+        "Pipeline management skills",
+        "Leadership experience"
+      ]
+    },
+    {
+      "id": "vx005",
+      "name": "Sage Williams",
+      "role": "Lighting Artist",
+      "company": "Animation Studio",
+      "experience_years": 5,
+      "location": "Los Angeles, CA",
+      "specialization": "Lighting, Rendering, Look Development",
+      "bio": "Lighting artist specializing in feature animation. Great at explaining lighting principles and rendering techniques.",
+      "availability": "Available for mentorship",
+      "linkedin": "linkedin.com/in/sage-williams-lighting",
+      "email": "sage.w@example.com",
+      "match_score": 90,
+      "match_reasons": [
+        "Feature animation experience",
+        "Lighting expertise",
+        "Rendering knowledge"
+      ]
+    }
+  ],
+  "Writing & Journalism": [
+    {
+      "id": "wj001",
+      "name": "River Anderson",
+      "role": "Screenwriter",
+      "company": "Independent Writer",
+      "experience_years": 8,
+      "location": "Los Angeles, CA",
+      "specialization": "Screenwriting, Story Structure, Character Development",
+      "bio": "Professional screenwriter with multiple produced scripts. Passionate about teaching the craft of screenwriting to emerging writers.",
+      "availability": "Available for writing workshops",
+      "linkedin": "linkedin.com/in/river-anderson-writer",
+      "email": "river.a@example.com",
+      "match_score": 96,
+      "match_reasons": [
+        "Produced screenwriter",
+        "Story structure expertise",
+        "Character development skills"
+      ]
+    },
+    {
+      "id": "wj002",
+      "name": "Blake Parker",
+      "role": "Content Writer",
+      "company": "Digital Media Agency",
+      "experience_years": 5,
+      "location": "New York, NY",
+      "specialization": "Content Writing, SEO, Brand Voice",
+      "bio": "Content writer creating engaging copy for brands and publications. Great at helping others develop their writing voice and style.",
+      "availability": "Available for virtual sessions",
+      "linkedin": "linkedin.com/in/blake-parker-writer",
+      "email": "blake.p@example.com",
+      "match_score": 93,
+      "match_reasons": [
+        "Content writing expertise",
+        "SEO knowledge",
+        "Brand voice development"
+      ]
+    },
+    {
+      "id": "wj003",
+      "name": "Cameron Lee",
+      "role": "Journalist",
+      "company": "News Media Network",
+      "experience_years": 7,
+      "location": "Washington, DC",
+      "specialization": "Investigative Journalism, News Reporting, Media Ethics",
+      "bio": "Award-winning journalist with experience covering major news stories. Enjoys mentoring aspiring journalists and teaching reporting skills.",
+      "availability": "Available for mentorship sessions",
+      "linkedin": "linkedin.com/in/cameron-lee-journalist",
+      "email": "cameron.l@example.com",
+      "match_score": 94,
+      "match_reasons": [
+        "Award-winning journalist",
+        "Investigative reporting expertise",
+        "Media ethics knowledge"
+      ]
+    },
+    {
+      "id": "wj004",
+      "name": "Jordan Taylor",
+      "role": "Copywriter",
+      "company": "Advertising Agency",
+      "experience_years": 6,
+      "location": "Chicago, IL",
+      "specialization": "Copywriting, Creative Advertising, Campaign Development",
+      "bio": "Creative copywriter working on major advertising campaigns. Great at teaching persuasive writing and creative thinking.",
+      "availability": "Available for coffee chats",
+      "linkedin": "linkedin.com/in/jordan-taylor-copywriter",
+      "email": "jordan.t@example.com",
+      "match_score": 91,
+      "match_reasons": [
+        "Advertising campaign experience",
+        "Persuasive writing expertise",
+        "Creative thinking skills"
+      ]
+    },
+    {
+      "id": "wj005",
+      "name": "Alex Morgan",
+      "role": "Editor",
+      "company": "Publishing House",
+      "experience_years": 8,
+      "location": "New York, NY",
+      "specialization": "Editing, Manuscript Development, Publishing",
+      "bio": "Editor with experience working on both fiction and non-fiction. Enjoys helping writers refine their work and navigate publishing.",
+      "availability": "Available for virtual meetings",
+      "linkedin": "linkedin.com/in/alex-morgan-editor",
+      "email": "alex.m@example.com",
+      "match_score": 92,
+      "match_reasons": [
+        "Publishing experience",
+        "Manuscript development expertise",
+        "Industry knowledge"
+      ]
+    }
+  ]
+}
+
