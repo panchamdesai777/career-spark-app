@@ -1,0 +1,60 @@
+{
+    "user_id": "uuid001",
+    "traits": [
+      "emotional_resilience",
+      "introversion",
+      "extroversion",
+      "analytical_thinking",
+      "creativity",
+      "risk_appetite",
+      "creative_preference",
+      "technical_preference",
+      "organizational_preference",
+      "action_preference"
+    ],
+  
+    "questions": {
+      "Q1": {
+        "question": "When things go wrong unexpectedly, how quickly do you regain your balance? (1–5)",
+        "type": "likert",
+        "trait": "emotional_resilience",
+        "weight": 2
+      },
+  
+      "Q2": {
+        "question": "After a long day, what recharges you more?",
+        "type": "choice",
+        "answers": {
+          "Spending time alone": { "introversion": 2 },
+          "Being around people": { "extroversion": 2 }
+        }
+      },
+  
+      "Q3": {
+        "question": "Which describes you better?",
+        "type": "choice",
+        "answers": {
+          "Logical & structured": { "analytical_thinking": 2 },
+          "Intuitive & imaginative": { "creativity": 2 }
+        }
+      },
+  
+      "Q4": {
+        "question": "How willing are you to take risks? (1–5)",
+        "type": "likert",
+        "trait": "risk_appetite",
+        "weight": 2
+      },
+  
+      "Q5": {
+        "question": "What kind of work do you enjoy more?",
+        "type": "choice",
+        "answers": {
+          "Creative": { "creative_preference": 2 },
+          "Technical": { "technical_preference": 2 },
+          "Organizational": { "organizational_preference": 2 },
+          "Action-oriented": { "action_preference": 2 }
+        }
+      }
+    }
+  }
